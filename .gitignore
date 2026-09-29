@@ -1,0 +1,31 @@
+# 只提交说明文档，exe 与源码一律不进主分支
+*.exe
+*.zip
+*.7z
+*.rar
+
+# 源码 / 构建产物
+*.py
+*.pyc
+__pycache__/
+build/
+dist/
+*.spec
+
+# 素材
+*.png
+*.jpg
+*.jpeg
+*.psd
+*.ai
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 本地临时
+_tools/
+_imgtest/
+petpacks/
+*.log

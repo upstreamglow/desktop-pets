@@ -40,39 +40,39 @@
 
 | 下载文件 | 角色 | 出处 |
 |---|---|---|
-| `桌宠-打字少女.exe` | 原创打字少女 | 原创 |
-| `桌宠-奶娃.exe` | 奶娃 | 原创 |
-| `豆豆键鼠桌宠.exe` | 豆豆（键鼠版） | 原创 |
-| `桌宠-孙权.exe` | 孙权 | 王者荣耀 |
-| `桌宠-小乔线条小狗.exe` | 小乔 · 线条小狗 | 王者荣耀 |
-| `桌宠-少司缘.exe` | 少司缘 | 王者荣耀 |
-| `桌宠-沈梦溪.exe` | 沈梦溪 | 王者荣耀 |
-| `桌宠-瑶.exe` | 瑶 | 王者荣耀 |
-| `桌宠-知更鸟.exe` | 知更鸟 | 崩坏：星穹铁道 |
-| `桌宠-芙宁娜.exe` | 芙宁娜 | 原神 |
-| `桌宠-芙莉莲.exe` | 芙莉莲 | 葬送的芙莉莲 |
-| `桌宠-凉宫春日.exe` | 凉宫春日 | 凉宫春日的忧郁 |
-| `桌宠-灶门祢豆子.exe` | 灶门祢豆子 | 鬼灭之刃 |
-| `桌宠-锦木千束.exe` | 锦木千束 | Lycoris Recoil |
-| `桌宠-中野三玖.exe` | 中野三玖 | 五等分的新娘 |
-| `桌宠-康娜.exe` | 康娜 | 小林家的龙女仆 |
-| `桌宠-阿尼亚.exe` | 阿尼亚 | SPY×FAMILY |
-| `桌宠-血小板.exe` | 血小板 | 工作细胞 |
-| `桌宠-伊蕾娜.exe` | 伊蕾娜 | 魔女之旅 |
-| `桌宠-薇尔莉特.exe` | 薇尔莉特 | 紫罗兰永恒花园 |
-| `桌宠-灰原哀.exe` | 灰原哀 | 名侦探柯南 |
-| `桌宠-柯南.exe` | 江户川柯南 | 名侦探柯南 |
-| `桌宠-可莉.exe` | 可莉 | 原神 |
-| `桌宠-草神.exe` | 纳西妲（草神） | 原神 |
-| `桌宠-甘雨.exe` | 甘雨 | 原神 |
-| `桌宠-胡桃.exe` | 胡桃 | 原神 |
-| `桌宠-雷电将军.exe` | 雷电将军 | 原神 |
-| `桌宠-申鹤.exe` | 申鹤 | 原神 |
-| `桌宠-神里绫华.exe` | 神里绫华 | 原神 |
-| `桌宠-萤.exe` | 萤 | 原神 |
-| `桌宠-八重神子.exe` | 八重神子 | 原神 |
-| `桌宠-星见雅.exe` | 星见雅 | 绝区零 |
-| `桌宠-和泉纱雾.exe` | 和泉纱雾 | 埃罗芒阿老师 |
+| `pet-typing-girl.exe` | 原创打字少女 | 原创 |
+| `pet-naiva.exe` | 奶娃 | 原创 |
+| `pet-doudou-mouse.exe` | 豆豆（键鼠版） | 原创 |
+| `pet-sunquan.exe` | 孙权 | 王者荣耀 |
+| `pet-xiaoqiao-puppy.exe` | 小乔 · 线条小狗 | 王者荣耀 |
+| `pet-shaosiyuan.exe` | 少司缘 | 王者荣耀 |
+| `pet-shenmengxi.exe` | 沈梦溪 | 王者荣耀 |
+| `pet-yao.exe` | 瑶 | 王者荣耀 |
+| `pet-robin.exe` | 知更鸟 | 崩坏：星穹铁道 |
+| `pet-furina.exe` | 芙宁娜 | 原神 |
+| `pet-frieren.exe` | 芙莉莲 | 葬送的芙莉莲 |
+| `pet-haruhi.exe` | 凉宫春日 | 凉宫春日的忧郁 |
+| `pet-nezuko.exe` | 灶门祢豆子 | 鬼灭之刃 |
+| `pet-chisato.exe` | 锦木千束 | Lycoris Recoil |
+| `pet-miku-nakano.exe` | 中野三玖 | 五等分的新娘 |
+| `pet-kanna.exe` | 康娜 | 小林家的龙女仆 |
+| `pet-anya.exe` | 阿尼亚 | SPY×FAMILY |
+| `pet-platelet.exe` | 血小板 | 工作细胞 |
+| `pet-elaina.exe` | 伊蕾娜 | 魔女之旅 |
+| `pet-violet.exe` | 薇尔莉特 | 紫罗兰永恒花园 |
+| `pet-haibara-ai.exe` | 灰原哀 | 名侦探柯南 |
+| `pet-conan.exe` | 江户川柯南 | 名侦探柯南 |
+| `pet-klee.exe` | 可莉 | 原神 |
+| `pet-nahida.exe` | 纳西妲（草神） | 原神 |
+| `pet-ganyu.exe` | 甘雨 | 原神 |
+| `pet-hutao.exe` | 胡桃 | 原神 |
+| `pet-raiden-shogun.exe` | 雷电将军 | 原神 |
+| `pet-shenhe.exe` | 申鹤 | 原神 |
+| `pet-ayaka.exe` | 神里绫华 | 原神 |
+| `pet-hotaru.exe` | 萤 | 原神 |
+| `pet-yae-miko.exe` | 八重神子 | 原神 |
+| `pet-miyabi.exe` | 星见雅 | 绝区零 |
+| `pet-sagiri.exe` | 和泉纱雾 | 埃罗芒阿老师 |
 
 ---
 
